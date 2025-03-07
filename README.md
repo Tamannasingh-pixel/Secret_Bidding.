@@ -1,7 +1,5 @@
 # Secret_Bidding.
 
-# Secret Bidding Program
-
 This repository contains a simple secret bidding program implemented in Python. The program allows multiple users to enter their bids without revealing them to others until the end, determining the winner based on the highest bid.
 
 ## Description
